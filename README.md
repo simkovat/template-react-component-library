@@ -7,3 +7,5 @@
 
 - dist directory is the library itself
 - if anybody wants to contribute, they need tu setup .npmrc
+- optimize by identifying peer dependencies
+- babel is there to be able to run tests
