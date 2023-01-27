@@ -6,3 +6,4 @@
   https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe
 
 - dist directory is the library itself
+- if anybody wants to contribute, they need tu setup .npmrc

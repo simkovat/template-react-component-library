@@ -1,5 +1,5 @@
 {
-  "name": "template-react-component-library",
+  "name": "@simkovat/template-react-component-library",
   "version": "0.0.1",
   "description": "React component library by Tereza",
   "scripts": {
@@ -24,5 +24,7 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
-  "type": "module"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/simkovat"
+  }
 }
